@@ -35,9 +35,8 @@ El sistema permite:
 ├── 📄worker_rabbitmq.py        # Worker remoto que procesa tareas desde RabbitMQ
 ├── 📄worker_rabbitmq_persist.py # Worker que guarda resultados en PostgreSQL
 ├── 📄README.md                 
-├── 📄diagrama.png              # Diagrama de arquitectura
-└── 📁docs/
-    └──📄PFO3_Redes_TP.pdf      # PDF con paso a paso y capturas
+└── 📄diagrama.png              # Diagrama de arquitectura
+
 ```
 
 ---
@@ -102,5 +101,5 @@ SELECT * FROM tareas_resultados;
 - Todo funciona de manera distribuida y concurrente.
 ## Documentación y capturas
 Se incluye un PDF con el paso a paso, pruebas y capturas de terminales, RabbitMQ, MinIO y PostgreSQL:
-- [Descargar PDF desde el repositorio](docs/PFO3_Redes_TP.pdf)
+
 - [Abrir PDF desde Google Drive](https://drive.google.com/file/d/19xXCK2_mZjykRHDufpfBRRK75m4mUlWE/view?usp=sharing)
