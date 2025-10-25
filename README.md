@@ -102,4 +102,5 @@ SELECT * FROM tareas_resultados;
 - Todo funciona de manera distribuida y concurrente.
 ## Documentación y capturas
 Se incluye un PDF con el paso a paso, pruebas y capturas de terminales, RabbitMQ, MinIO y PostgreSQL:
-[Descargar PDF](docs/PFO3_Redes_TP.pdf)
+- [Descargar PDF desde el repositorio](docs/PFO3_Redes_TP.pdf)
+- [Abrir PDF desde Google Drive](https://drive.google.com/file/d/19xXCK2_mZjykRHDufpfBRRK75m4mUlWE/view?usp=sharing)
